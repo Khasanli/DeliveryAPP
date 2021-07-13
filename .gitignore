@@ -1,2 +1,5 @@
 # CocoaPods
-/Pods
+/Pods 
+
+GoogleService-Info.plist
+Info.plist
