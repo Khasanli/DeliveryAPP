@@ -16,7 +16,6 @@ class HomeCollectionViewCell: UICollectionViewCell {
     
     let addButton : UIButton = {
         let button = UIButton()
-        //button.setImage(UIImage(named: "addButton"), for: .normal)
         button.translatesAutoresizingMaskIntoConstraints = false
         return button
     }()
